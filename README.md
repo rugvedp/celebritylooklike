@@ -28,6 +28,9 @@ Celebrity Face Matcher is a fun project that uses Convolutional Neural Networks 
 2. Navigate to `http://localhost:5000` in your web browser.
 3. Upload your photo and wait for the result!
 
+### Note:
+- Celebrity Face Matcher uses cosine similarity to find the closest match between your face and the celebrities in the dataset.
+
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 1. Fork the repository.
